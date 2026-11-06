@@ -7,7 +7,7 @@
 
 Hi, I'm Lorenzo 🤠, a student of Computer Engineering at the University of Padua 🎓.
 Here you can find all my projects.
-I'm interested in learning new thing 👀, in particoular about Linux 🐧 and cli tools. 
+I'm interested in learning new thing 👀, in particular about Linux 🐧, Robotics 🤖 and Machine Learning 🧠.
 You want to reach me, write me an e-mail: lorenzonardin@ik.me
 
 <!---
